@@ -1,0 +1,22 @@
+{
+  "name": "ds-algos",
+  "version": "1.0.0",
+  "description": "practice to get a job",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcam10/ds-algos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcam10/ds-algos/issues"
+  },
+  "homepage": "https://github.com/mcam10/ds-algos#readme",
+  "dependencies": {
+    "mocha": "^7.1.1"
+  }
+}
