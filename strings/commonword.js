@@ -1,4 +1,4 @@
-// given a paragraph and a list of banned words find most that is most ocurring that is not in the list of banned words
+// given a paragraph and a list of banned words find one that is most ocurring that is not in the list of banned words
 
 
 // edge cases -> clear up with interviewer..
